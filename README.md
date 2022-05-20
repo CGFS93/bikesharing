@@ -67,7 +67,6 @@ The purpose of the current analysis is to prepare visualizations that give poten
 #### Trips by Weekday and Gender
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/169623299-132dec24-6327-4bbe-a888-7014d864164b.png">
-    <img src="https://user-images.githubusercontent.com/98966503/169623300-a6431e5c-cbf0-4f55-b5f6-b70844684699.png">
 </p>
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
