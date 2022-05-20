@@ -54,10 +54,6 @@ The purpose of the current analysis is to prepare visualizations that give poten
     <img src="https://user-images.githubusercontent.com/98966503/169623301-0be97291-3780-47dd-915d-24e19336652c.png"> 
 </p>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169623291-a94a334b-a652-4e08-a84e-ab916dc9400e.png"> 
-</p>
-
 - Bikes are mostly checked out for 4 to 6 hours.
 
 <br>
