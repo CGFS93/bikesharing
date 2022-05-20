@@ -50,7 +50,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 <br>
 
-#### Checkout Times for Users
+#### Checkout Times for Users and by Gender
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/169623301-0be97291-3780-47dd-915d-24e19336652c.png"> 
@@ -64,7 +64,6 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 <br>
 
-#### Trips by Weekday and Gender
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/169623299-132dec24-6327-4bbe-a888-7014d864164b.png">
 </p>
