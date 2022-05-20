@@ -28,7 +28,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 ### New York Citi Bike data
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826309-e77f3100-1c86-11eb-8503-e40691cd6fe0.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/169623306-d56378d2-30c0-4a8d-ab39-f28082d8b0c0.png"> 
 </p>
 
 - There were over 2.3 million rides for the month of August 2019.
@@ -40,7 +40,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 #### August Peak Hours
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826311-e8b05e00-1c86-11eb-8240-ab05bc3cb61f.png"> 
+    <img src="https://user-images.githubusercontent.com/93271297/152704314-ce9b9dfa-0f81-43f4-84e5-9d50aa4732b4.png"> 
 </p>
 
 - Highest activity hours are from 5:00 PM to 7:00 PM and require the most resources mobilized.
@@ -49,8 +49,13 @@ The purpose of the current analysis is to prepare visualizations that give poten
 <br>
 
 #### Checkout Times for Users
+
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828088-b7865c80-1c8b-11eb-9c03-91ad942a6daa.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/169623301-0be97291-3780-47dd-915d-24e19336652c.png"> 
+</p>
+
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/98966503/169623291-a94a334b-a652-4e08-a84e-ab916dc9400e.png"> 
 </p>
 
 - Bikes are mostly checked out for 4 to 6 hours.
@@ -59,7 +64,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 #### Checkout Times by Gender
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97828090-b8b78980-1c8b-11eb-947f-87486da03b73.png"> 
+    <img src="https://user-images.githubusercontent.com/98966503/169623297-adbaeadc-2ca8-4f33-9bc1-56eefb1e9183.png"> 
 </p>
 
 - Male users take approximately 3 times more rides than the female users.
@@ -68,8 +73,8 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 #### Trips by Weekday and Gender
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/68669675/97826316-e9e18b00-1c86-11eb-814c-b558ed34335d.png">
-    <img src="https://user-images.githubusercontent.com/68669675/97826317-e9e18b00-1c86-11eb-9559-f06b93418b58.png">
+    <img src="https://user-images.githubusercontent.com/98966503/169623299-132dec24-6327-4bbe-a888-7014d864164b.png">
+    <img src="https://user-images.githubusercontent.com/98966503/169623300-a6431e5c-cbf0-4f55-b5f6-b70844684699.png">
 </p>
 
 - Most weekday rides are around 7:00 AM to 9 AM and 5:00 PM to 7:00 PM.
