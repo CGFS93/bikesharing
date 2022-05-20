@@ -24,7 +24,8 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 [NYC_Citibike](https://public.tableau.com/views/NYC_Citibike_Trip_Analysis_16529623834790/NYC_Citibike_Trip_Analysis?:language=en-US&:display_count=n&:origin=viz_share_link)
 
-### New York Citi Bike data visualizations for August 2019
+
+### New York Citi Bike data
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/68669675/97826309-e77f3100-1c86-11eb-8503-e40691cd6fe0.png"> 
@@ -47,7 +48,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 <br>
 
-#### Checkout times for users
+#### Checkout Times for Users
 <p align="center">
     <img src="https://user-images.githubusercontent.com/68669675/97828088-b7865c80-1c8b-11eb-9c03-91ad942a6daa.png"> 
 </p>
@@ -56,7 +57,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 <br>
 
-#### Checkout times by gender
+#### Checkout Times by Gender
 <p align="center">
     <img src="https://user-images.githubusercontent.com/68669675/97828090-b8b78980-1c8b-11eb-947f-87486da03b73.png"> 
 </p>
@@ -65,7 +66,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 <br>
 
-#### Trips by weekday and gender
+#### Trips by Weekday and Gender
 <p align="center">
     <img src="https://user-images.githubusercontent.com/68669675/97826316-e9e18b00-1c86-11eb-814c-b558ed34335d.png">
     <img src="https://user-images.githubusercontent.com/68669675/97826317-e9e18b00-1c86-11eb-9559-f06b93418b58.png">
