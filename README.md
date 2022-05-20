@@ -20,6 +20,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 ## Results:
 
 #### Tableau Analysis
+
 [Bikesharing](https://public.tableau.com/views/bikesharing_16529052057990/NYCBikesharing?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 [NYC_Citibike](https://public.tableau.com/views/NYC_Citibike_Trip_Analysis_16529623834790/NYC_Citibike_Trip_Analysis?:language=en-US&:display_count=n&:origin=viz_share_link)
@@ -39,6 +40,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 <br>
 
 #### August Peak Hours
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/93271297/152704314-ce9b9dfa-0f81-43f4-84e5-9d50aa4732b4.png"> 
 </p>
@@ -59,6 +61,7 @@ The purpose of the current analysis is to prepare visualizations that give poten
 <br>
 
 #### Checkout Times by Gender
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/98966503/169623297-adbaeadc-2ca8-4f33-9bc1-56eefb1e9183.png"> 
 </p>
