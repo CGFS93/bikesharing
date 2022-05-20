@@ -60,12 +60,6 @@ The purpose of the current analysis is to prepare visualizations that give poten
 
 <br>
 
-#### Checkout Times by Gender
-
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/98966503/169623297-adbaeadc-2ca8-4f33-9bc1-56eefb1e9183.png"> 
-</p>
-
 - Male users take approximately 3 times more rides than the female users.
 
 <br>
