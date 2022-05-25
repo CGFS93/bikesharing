@@ -57,9 +57,6 @@ The purpose of the current analysis is to prepare visualizations that give poten
 </p>
 
 - Bikes are mostly checked out for 4 to 6 hours.
-
-<br>
-
 - Male users take approximately 3 times more rides than the female users.
 
 <br>
